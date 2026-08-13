@@ -1,0 +1,2 @@
+// JavaScript file for Cape Town Coffee Co
+console.log("Website loaded successfully");
